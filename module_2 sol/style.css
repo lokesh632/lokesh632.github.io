@@ -12,7 +12,7 @@ p {
   border: 2px solid black;
   height: 150px;
   margin-right: 10px;
-  padding: 40px 10px 5px 10px;
+  padding: 55px 10px 5px 10px;
   overflow: hidden;
 }
 
@@ -28,7 +28,7 @@ p {
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 35px;
+  height: 25px;
   width: 120px;
   padding: 10px;
   text-align: center;
@@ -42,7 +42,7 @@ p {
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 35px;
+  height: 25px;
   width: 120px;
   padding: 10px;
   text-align: center;
@@ -55,7 +55,7 @@ p {
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 35px;
+  height: 25px;
   width: 120px;
   padding: 10px;
   text-align: center;
